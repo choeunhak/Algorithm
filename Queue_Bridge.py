@@ -1,7 +1,3 @@
-Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-
 #sum(bridge)에서 시간이 좀 오래걸리는데 이거를 해결하려고 sum(bridge)를 따로 변수로 놓고 처리하였다.
 #큐 다리를 지나는 트
 def solution(bridge_length, weight, truck_weights):
